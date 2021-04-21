@@ -1,0 +1,4 @@
+# Artificial-Neural-Network-Churn
+Analisa untuk memprediksi Customer Churn suatu bank menggunakan salah satu teknik deep learning artificial neural network
+Customer churn juga dikenal sebagai atrisi pelanggan adalah persentase pelanggan yang berhenti menggunakan produk dan layanan bisnis Anda selama jangka waktu tertentu. Dalam suatu bank, semakin banyak pelanggan yang dimiliki akan semakin banyak keuntungan yang di dapatkan. Dalam dataset ini terdapat berbagai features - features yang akan menjadi evaluasi mengapa suatu pelanggan berhenti menggunakan layanan bank.
+Hasil dari penelitian ini, akan mampu memprediksi untuk data pelanggan baru yang mungkin akan memiliki peluang tinggi untuk berhenti menggunakan bank. Sehingga Pihak bank dapat memberikan special offer untuk pelanggan yang memiliki presentasi tinggi berhenti berlangganan.
